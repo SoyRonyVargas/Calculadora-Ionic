@@ -1,0 +1,7 @@
+{
+  "name": "CalculadoraIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
